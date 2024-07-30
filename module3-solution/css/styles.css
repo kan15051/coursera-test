@@ -1,0 +1,10 @@
+.menu-container{
+    background-color: grey;
+    height: 1000px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#menu-list{
+    margin: 20px auto;
+}
